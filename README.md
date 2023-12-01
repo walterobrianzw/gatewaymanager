@@ -15,7 +15,7 @@ Automated build: Apache Maven
 
 
 ### Rest Api dcoument
-Can be found at the url http://localhost:8080/swagger-ui.html
+Can be found at the url  {server url}/swagger-ui.html  eg http://localhost:8080/swagger-ui.html
 
 
 ### Dummy Data
